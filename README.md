@@ -1,7 +1,7 @@
 # matplotlib-challenge
 
-In this activity, it was requested an analysis of a pharmaceutical company drug, Capomulin, in the treatment of squamous cell carcinoma (SCC) against the other treatment regimens.
-Here you can find a top-level summary of the study results and the data analysis:
+In this activity, it was requested an analysis of Capomulin, a pharmaceutical company drug, in the treatment of squamous cell carcinoma (SCC) against other treatment regimens.
+Here you can find a top-level summary of the study results:
 
 * There were 248 mice participants on the study. 51% were male, 49% were female. 
 
@@ -18,7 +18,7 @@ Here you can find a top-level summary of the study results and the data analysis
 
 ![boxplot](https://github.com/githubemail5326/matplotlib-challenge/blob/main/Pymaceuticals/boxplot.PNG)
 
-* There is a strong correlation between mouse weight and the average tumor volume for Capomulin: the Pearson correlation coefficient is 0.84, indicating the weight of the patient may play an important role when they are being treated with Capomulin. More data is needed to obtain a conclusive analysis.
+* There is a strong correlation between the mouse weight and the average tumor volume for Capomulin: the Pearson correlation coefficient is 0.84, indicating the weight of the patient may play an important role when they are being treated with Capomulin. More data is needed to obtain a conclusive analysis.
 
 ![correlation](https://github.com/githubemail5326/matplotlib-challenge/blob/main/Pymaceuticals/correlation.PNG)
 
