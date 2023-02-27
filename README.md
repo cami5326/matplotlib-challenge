@@ -1,6 +1,6 @@
 # matplotlib-challenge
 
-In this activity, it was requested an analysis of Capomulin, a pharmaceutical company drug, in the treatment of squamous cell carcinoma (SCC) against other treatment regimens.
+In this activity, it was requested an analysis of Capomulin, a pharmaceutical company drug, against other treatment regimens for squamous cell carcinoma (SCC).
 Here you can find a top-level summary of the study results:
 
 * There were 248 mice participants in the study. 51% were male, 49% were female. 
